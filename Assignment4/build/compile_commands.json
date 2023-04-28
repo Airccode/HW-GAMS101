@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/cs18/Desktop/Assignment4/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -isystem /usr/include/opencv  -g   -std=gnu++14 -o CMakeFiles/BezierCurve.dir/main.cpp.o -c /home/cs18/Desktop/Assignment4/main.cpp",
+  "file": "/home/cs18/Desktop/Assignment4/main.cpp"
+}
+]
