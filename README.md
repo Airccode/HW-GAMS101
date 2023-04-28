@@ -1,4 +1,5 @@
-# GAMES101作业
+# GAMES101作业<br/>
+作业环境说明:https://github.com/Airccode/HW-GAMS101/blob/main/pa0.pdf<br/>
 # Assignment1:<br/>
 ![Alt text](https://github.com/Airccode/HW-GAMS101/blob/main/Assignment1/image.png)<br/>
 # Assignment2:<br/>
